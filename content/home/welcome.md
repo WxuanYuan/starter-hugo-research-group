@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The **Plastic Memory Program** has been a project since 2023 with the aim of creating chatbots that simulate human personal emotions, individual memories, linguistic behavior, and limited cognition.
